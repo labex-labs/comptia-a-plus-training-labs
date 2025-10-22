@@ -17,20 +17,20 @@ Apprenez les compétences fondamentales du support informatique grâce à des la
 
 ## Exercices
 
-|   Index | Nom                                                 | Difficulté   | Pratique                                                                                                                          |
-|---------|-----------------------------------------------------|--------------|-----------------------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖  Installation de Modules de RAM Virtuelle        | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/linux-installing-virtual-ram-modules-632799'>Commencer le Lab</a>          |
-|      02 | 📖  Configuration des Périphériques de Stockage     | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/linux-configuring-storage-devices-632793'>Commencer le Lab</a>             |
-|      03 | 📖  Configuration de l'adressage IP                 | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/linux-setting-up-ip-addressing-632801'>Commencer le Lab</a>                |
-|      04 | 📖  Test de la Connectivité Réseau                  | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/linux-testing-network-connectivity-632803'>Commencer le Lab</a>            |
-|      05 | 📖  Configuration des connexions sans fil           | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/linux-configuring-wireless-connections-632794'>Commencer le Lab</a>        |
-|      06 | 📖  Création de Compte Utilisateur                  | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/linux-user-account-creation-632804'>Commencer le Lab</a>                   |
-|      07 | 📖  Navigation dans le Système de Fichiers          | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/linux-file-system-navigation-632797'>Commencer le Lab</a>                  |
-|      08 | 📖  Installation et Mises à Jour de Logiciels       | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/linux-software-installation-and-updates-632802'>Commencer le Lab</a>       |
-|      09 | 📖  Implémentation des Permissions de Fichiers      | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/linux-implementing-file-permissions-632798'>Commencer le Lab</a>           |
-|      10 | 📖  Activation du Pare-feu de Base                  | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/linux-enabling-basic-firewall-632796'>Commencer le Lab</a>                 |
-|      11 | 📖  Diagnostic des problèmes d'espace disque        | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/linux-diagnosing-disk-space-issues-632795'>Commencer le Lab</a>            |
-|      12 | 📖  Résolution des Problèmes de Connectivité Réseau | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/linux-resolving-network-connectivity-problems-632800'>Commencer le Lab</a> |
+|   Index | Nom                                                 | Difficulté   | Pratique                                                                                                                                                         |
+|---------|-----------------------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|      01 | 📖  Installation de Modules de RAM Virtuelle        | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/linux-installing-virtual-ram-modules-632799?course=comptia-a-plus-training-labs'>Commencer le Lab</a>          |
+|      02 | 📖  Configuration des Périphériques de Stockage     | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/linux-configuring-storage-devices-632793?course=comptia-a-plus-training-labs'>Commencer le Lab</a>             |
+|      03 | 📖  Configuration de l'adressage IP                 | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/linux-setting-up-ip-addressing-632801?course=comptia-a-plus-training-labs'>Commencer le Lab</a>                |
+|      04 | 📖  Test de la Connectivité Réseau                  | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/linux-testing-network-connectivity-632803?course=comptia-a-plus-training-labs'>Commencer le Lab</a>            |
+|      05 | 📖  Configuration des connexions sans fil           | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/linux-configuring-wireless-connections-632794?course=comptia-a-plus-training-labs'>Commencer le Lab</a>        |
+|      06 | 📖  Création de Compte Utilisateur                  | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/linux-user-account-creation-632804?course=comptia-a-plus-training-labs'>Commencer le Lab</a>                   |
+|      07 | 📖  Navigation dans le Système de Fichiers          | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/linux-file-system-navigation-632797?course=comptia-a-plus-training-labs'>Commencer le Lab</a>                  |
+|      08 | 📖  Installation et Mises à Jour de Logiciels       | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/linux-software-installation-and-updates-632802?course=comptia-a-plus-training-labs'>Commencer le Lab</a>       |
+|      09 | 📖  Implémentation des Permissions de Fichiers      | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/linux-implementing-file-permissions-632798?course=comptia-a-plus-training-labs'>Commencer le Lab</a>           |
+|      10 | 📖  Activation du Pare-feu de Base                  | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/linux-enabling-basic-firewall-632796?course=comptia-a-plus-training-labs'>Commencer le Lab</a>                 |
+|      11 | 📖  Diagnostic des problèmes d'espace disque        | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/linux-diagnosing-disk-space-issues-632795?course=comptia-a-plus-training-labs'>Commencer le Lab</a>            |
+|      12 | 📖  Résolution des Problèmes de Connectivité Réseau | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/linux-resolving-network-connectivity-problems-632800?course=comptia-a-plus-training-labs'>Commencer le Lab</a> |
 
 ## À propos de LabEx
 
