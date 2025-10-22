@@ -17,20 +17,20 @@ Aprenda habilidades essenciais de suporte de TI através de laboratórios práti
 
 ## Exercícios
 
-|   Índice | Nome                                                | Dificuldade   | Prática                                                                                                                      |
-|----------|-----------------------------------------------------|---------------|------------------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖  Instalação de Módulos de RAM Virtual            | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-installing-virtual-ram-modules-632799'>Iniciar Lab</a>          |
-|       02 | 📖  Configuração de Dispositivos de Armazenamento   | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-configuring-storage-devices-632793'>Iniciar Lab</a>             |
-|       03 | 📖  Configuração de Endereçamento IP                | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-setting-up-ip-addressing-632801'>Iniciar Lab</a>                |
-|       04 | 📖  Teste de Conectividade de Rede                  | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-testing-network-connectivity-632803'>Iniciar Lab</a>            |
-|       05 | 📖  Configuração de Conexões Sem Fio                | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-configuring-wireless-connections-632794'>Iniciar Lab</a>        |
-|       06 | 📖  Criação de Contas de Usuário                    | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-user-account-creation-632804'>Iniciar Lab</a>                   |
-|       07 | 📖  Navegação no Sistema de Arquivos                | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-file-system-navigation-632797'>Iniciar Lab</a>                  |
-|       08 | 📖  Instalação e Atualizações de Software           | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-software-installation-and-updates-632802'>Iniciar Lab</a>       |
-|       09 | 📖  Implementação de Permissões de Arquivo          | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-implementing-file-permissions-632798'>Iniciar Lab</a>           |
-|       10 | 📖  Habilitando o Firewall Básico                   | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-enabling-basic-firewall-632796'>Iniciar Lab</a>                 |
-|       11 | 📖  Diagnóstico de Problemas de Espaço em Disco     | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-diagnosing-disk-space-issues-632795'>Iniciar Lab</a>            |
-|       12 | 📖  Resolução de Problemas de Conectividade de Rede | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-resolving-network-connectivity-problems-632800'>Iniciar Lab</a> |
+|   Índice | Nome                                                | Dificuldade   | Prática                                                                                                                                                     |
+|----------|-----------------------------------------------------|---------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|       01 | 📖  Instalação de Módulos de RAM Virtual            | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/linux-installing-virtual-ram-modules-632799?course=comptia-a-plus-training-labs'>Iniciar Lab</a>          |
+|       02 | 📖  Configuração de Dispositivos de Armazenamento   | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/linux-configuring-storage-devices-632793?course=comptia-a-plus-training-labs'>Iniciar Lab</a>             |
+|       03 | 📖  Configuração de Endereçamento IP                | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/linux-setting-up-ip-addressing-632801?course=comptia-a-plus-training-labs'>Iniciar Lab</a>                |
+|       04 | 📖  Teste de Conectividade de Rede                  | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/linux-testing-network-connectivity-632803?course=comptia-a-plus-training-labs'>Iniciar Lab</a>            |
+|       05 | 📖  Configuração de Conexões Sem Fio                | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/linux-configuring-wireless-connections-632794?course=comptia-a-plus-training-labs'>Iniciar Lab</a>        |
+|       06 | 📖  Criação de Contas de Usuário                    | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/linux-user-account-creation-632804?course=comptia-a-plus-training-labs'>Iniciar Lab</a>                   |
+|       07 | 📖  Navegação no Sistema de Arquivos                | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/linux-file-system-navigation-632797?course=comptia-a-plus-training-labs'>Iniciar Lab</a>                  |
+|       08 | 📖  Instalação e Atualizações de Software           | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/linux-software-installation-and-updates-632802?course=comptia-a-plus-training-labs'>Iniciar Lab</a>       |
+|       09 | 📖  Implementação de Permissões de Arquivo          | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/linux-implementing-file-permissions-632798?course=comptia-a-plus-training-labs'>Iniciar Lab</a>           |
+|       10 | 📖  Habilitando o Firewall Básico                   | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/linux-enabling-basic-firewall-632796?course=comptia-a-plus-training-labs'>Iniciar Lab</a>                 |
+|       11 | 📖  Diagnóstico de Problemas de Espaço em Disco     | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/linux-diagnosing-disk-space-issues-632795?course=comptia-a-plus-training-labs'>Iniciar Lab</a>            |
+|       12 | 📖  Resolução de Problemas de Conectividade de Rede | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/linux-resolving-network-connectivity-problems-632800?course=comptia-a-plus-training-labs'>Iniciar Lab</a> |
 
 ## Sobre LabEx
 
