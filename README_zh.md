@@ -17,20 +17,20 @@
 
 ## 练习
 
-|   序号 | 名称                   | 难度   | 练习                                                                                                                      |
-|--------|------------------------|--------|---------------------------------------------------------------------------------------------------------------------------|
-|     01 | 📖  安装虚拟内存模块   | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-installing-virtual-ram-modules-632799'>开始实验</a>          |
-|     02 | 📖  配置存储设备       | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-configuring-storage-devices-632793'>开始实验</a>             |
-|     03 | 📖  设置 IP 地址       | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-setting-up-ip-addressing-632801'>开始实验</a>                |
-|     04 | 📖  测试网络连接性     | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-testing-network-connectivity-632803'>开始实验</a>            |
-|     05 | 📖  配置无线连接       | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-configuring-wireless-connections-632794'>开始实验</a>        |
-|     06 | 📖  用户账户创建       | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-user-account-creation-632804'>开始实验</a>                   |
-|     07 | 📖  文件系统导航       | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-file-system-navigation-632797'>开始实验</a>                  |
-|     08 | 📖  软件安装与更新     | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-software-installation-and-updates-632802'>开始实验</a>       |
-|     09 | 📖  实现文件权限管理   | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-implementing-file-permissions-632798'>开始实验</a>           |
-|     10 | 📖  启用基础防火墙     | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-enabling-basic-firewall-632796'>开始实验</a>                 |
-|     11 | 📖  诊断磁盘空间问题   | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-diagnosing-disk-space-issues-632795'>开始实验</a>            |
-|     12 | 📖  解决网络连通性问题 | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-resolving-network-connectivity-problems-632800'>开始实验</a> |
+|   序号 | 名称                   | 难度   | 练习                                                                                                                                                     |
+|--------|------------------------|--------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
+|     01 | 📖  安装虚拟内存模块   | 初级   | <a target='_blank' href='https://labex.io/zh/labs/linux-installing-virtual-ram-modules-632799?course=comptia-a-plus-training-labs'>开始实验</a>          |
+|     02 | 📖  配置存储设备       | 初级   | <a target='_blank' href='https://labex.io/zh/labs/linux-configuring-storage-devices-632793?course=comptia-a-plus-training-labs'>开始实验</a>             |
+|     03 | 📖  设置 IP 地址       | 初级   | <a target='_blank' href='https://labex.io/zh/labs/linux-setting-up-ip-addressing-632801?course=comptia-a-plus-training-labs'>开始实验</a>                |
+|     04 | 📖  测试网络连接性     | 初级   | <a target='_blank' href='https://labex.io/zh/labs/linux-testing-network-connectivity-632803?course=comptia-a-plus-training-labs'>开始实验</a>            |
+|     05 | 📖  配置无线连接       | 初级   | <a target='_blank' href='https://labex.io/zh/labs/linux-configuring-wireless-connections-632794?course=comptia-a-plus-training-labs'>开始实验</a>        |
+|     06 | 📖  用户账户创建       | 初级   | <a target='_blank' href='https://labex.io/zh/labs/linux-user-account-creation-632804?course=comptia-a-plus-training-labs'>开始实验</a>                   |
+|     07 | 📖  文件系统导航       | 初级   | <a target='_blank' href='https://labex.io/zh/labs/linux-file-system-navigation-632797?course=comptia-a-plus-training-labs'>开始实验</a>                  |
+|     08 | 📖  软件安装与更新     | 初级   | <a target='_blank' href='https://labex.io/zh/labs/linux-software-installation-and-updates-632802?course=comptia-a-plus-training-labs'>开始实验</a>       |
+|     09 | 📖  实现文件权限管理   | 初级   | <a target='_blank' href='https://labex.io/zh/labs/linux-implementing-file-permissions-632798?course=comptia-a-plus-training-labs'>开始实验</a>           |
+|     10 | 📖  启用基础防火墙     | 初级   | <a target='_blank' href='https://labex.io/zh/labs/linux-enabling-basic-firewall-632796?course=comptia-a-plus-training-labs'>开始实验</a>                 |
+|     11 | 📖  诊断磁盘空间问题   | 初级   | <a target='_blank' href='https://labex.io/zh/labs/linux-diagnosing-disk-space-issues-632795?course=comptia-a-plus-training-labs'>开始实验</a>            |
+|     12 | 📖  解决网络连通性问题 | 初级   | <a target='_blank' href='https://labex.io/zh/labs/linux-resolving-network-connectivity-problems-632800?course=comptia-a-plus-training-labs'>开始实验</a> |
 
 ## 关于 LabEx
 
