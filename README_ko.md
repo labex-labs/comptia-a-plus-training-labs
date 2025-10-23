@@ -19,18 +19,18 @@
 
 |   인덱스 | 이름                            | 난이도   | 연습                                                                                                                                                      |
 |----------|---------------------------------|----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖  가상 RAM 모듈 설치          | 초급     | <a target='_blank' href='https://labex.io/ko/labs/linux-installing-virtual-ram-modules-632799?course=comptia-a-plus-training-labs'>실습 시작</a>          |
-|       02 | 📖  저장 장치 구성하기          | 초급     | <a target='_blank' href='https://labex.io/ko/labs/linux-configuring-storage-devices-632793?course=comptia-a-plus-training-labs'>실습 시작</a>             |
-|       03 | 📖  IP 주소 설정하기            | 초급     | <a target='_blank' href='https://labex.io/ko/labs/linux-setting-up-ip-addressing-632801?course=comptia-a-plus-training-labs'>실습 시작</a>                |
-|       04 | 📖  네트워크 연결 테스트하기    | 초급     | <a target='_blank' href='https://labex.io/ko/labs/linux-testing-network-connectivity-632803?course=comptia-a-plus-training-labs'>실습 시작</a>            |
-|       05 | 📖  무선 연결 구성하기          | 초급     | <a target='_blank' href='https://labex.io/ko/labs/linux-configuring-wireless-connections-632794?course=comptia-a-plus-training-labs'>실습 시작</a>        |
-|       06 | 📖  사용자 계정 생성            | 초급     | <a target='_blank' href='https://labex.io/ko/labs/linux-user-account-creation-632804?course=comptia-a-plus-training-labs'>실습 시작</a>                   |
-|       07 | 📖  파일 시스템 탐색            | 초급     | <a target='_blank' href='https://labex.io/ko/labs/linux-file-system-navigation-632797?course=comptia-a-plus-training-labs'>실습 시작</a>                  |
-|       08 | 📖  소프트웨어 설치 및 업데이트 | 초급     | <a target='_blank' href='https://labex.io/ko/labs/linux-software-installation-and-updates-632802?course=comptia-a-plus-training-labs'>실습 시작</a>       |
-|       09 | 📖  파일 권한 구현하기          | 초급     | <a target='_blank' href='https://labex.io/ko/labs/linux-implementing-file-permissions-632798?course=comptia-a-plus-training-labs'>실습 시작</a>           |
-|       10 | 📖  기본 방화벽 활성화          | 초급     | <a target='_blank' href='https://labex.io/ko/labs/linux-enabling-basic-firewall-632796?course=comptia-a-plus-training-labs'>실습 시작</a>                 |
-|       11 | 📖  디스크 공간 문제 진단하기   | 초급     | <a target='_blank' href='https://labex.io/ko/labs/linux-diagnosing-disk-space-issues-632795?course=comptia-a-plus-training-labs'>실습 시작</a>            |
-|       12 | 📖  네트워크 연결 문제 해결하기 | 초급     | <a target='_blank' href='https://labex.io/ko/labs/linux-resolving-network-connectivity-problems-632800?course=comptia-a-plus-training-labs'>실습 시작</a> |
+|       01 | 🧩  가상 RAM 모듈 설치          | 초급     | <a target='_blank' href='https://labex.io/ko/labs/linux-installing-virtual-ram-modules-632799?course=comptia-a-plus-training-labs'>실습 시작</a>          |
+|       02 | 🧩  저장 장치 구성하기          | 초급     | <a target='_blank' href='https://labex.io/ko/labs/linux-configuring-storage-devices-632793?course=comptia-a-plus-training-labs'>실습 시작</a>             |
+|       03 | 🧩  IP 주소 설정하기            | 초급     | <a target='_blank' href='https://labex.io/ko/labs/linux-setting-up-ip-addressing-632801?course=comptia-a-plus-training-labs'>실습 시작</a>                |
+|       04 | 🧩  네트워크 연결 테스트하기    | 초급     | <a target='_blank' href='https://labex.io/ko/labs/linux-testing-network-connectivity-632803?course=comptia-a-plus-training-labs'>실습 시작</a>            |
+|       05 | 🧩  무선 연결 구성하기          | 초급     | <a target='_blank' href='https://labex.io/ko/labs/linux-configuring-wireless-connections-632794?course=comptia-a-plus-training-labs'>실습 시작</a>        |
+|       06 | 🧩  사용자 계정 생성            | 초급     | <a target='_blank' href='https://labex.io/ko/labs/linux-user-account-creation-632804?course=comptia-a-plus-training-labs'>실습 시작</a>                   |
+|       07 | 🧩  파일 시스템 탐색            | 초급     | <a target='_blank' href='https://labex.io/ko/labs/linux-file-system-navigation-632797?course=comptia-a-plus-training-labs'>실습 시작</a>                  |
+|       08 | 🧩  소프트웨어 설치 및 업데이트 | 초급     | <a target='_blank' href='https://labex.io/ko/labs/linux-software-installation-and-updates-632802?course=comptia-a-plus-training-labs'>실습 시작</a>       |
+|       09 | 🧩  파일 권한 구현하기          | 초급     | <a target='_blank' href='https://labex.io/ko/labs/linux-implementing-file-permissions-632798?course=comptia-a-plus-training-labs'>실습 시작</a>           |
+|       10 | 🧩  기본 방화벽 활성화          | 초급     | <a target='_blank' href='https://labex.io/ko/labs/linux-enabling-basic-firewall-632796?course=comptia-a-plus-training-labs'>실습 시작</a>                 |
+|       11 | 🧩  디스크 공간 문제 진단하기   | 초급     | <a target='_blank' href='https://labex.io/ko/labs/linux-diagnosing-disk-space-issues-632795?course=comptia-a-plus-training-labs'>실습 시작</a>            |
+|       12 | 🧩  네트워크 연결 문제 해결하기 | 초급     | <a target='_blank' href='https://labex.io/ko/labs/linux-resolving-network-connectivity-problems-632800?course=comptia-a-plus-training-labs'>실습 시작</a> |
 
 ## LabEx 소개
 
